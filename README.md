@@ -2,8 +2,8 @@
 
 hello dgl-team,
 
-here is a reproducible code for you to debug
-please run main.py to debug
+here is a reproducible code for you to debug.  
+please run main.py to debug.
 
 
 the conda list of two versions as follow:  
